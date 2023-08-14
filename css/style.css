@@ -29,8 +29,8 @@
     color:  #ff0066;
 }
 .height-Width{
-    height: 400px;
-  width: 400px;
+    height: 300px;
+  width: 300px;
    border-radius: 50%;
 }
 .box-shad{
@@ -47,6 +47,9 @@
     color:#00ffff;
     font-weight: bold;
 }
+.container{
+    margin-top: 150px;
+} 
 @media screen and (min-width: 500px) and (max-width: 768px){
     .img-shweta{
       display: block;
@@ -60,4 +63,21 @@
     margin-right: auto;
     margin-left: 20px;
 }
+}
+
+.heading{
+    margin-top: 200px;
+}
+.name{
+    margin-top: 30px;
+    font-size: 60px;
+}
+.small-change{
+    font-size: 30px;
+}
+.margin{
+    margin-left: 100px;
+}
+.font-size{
+    font-size: 20px;
 }
