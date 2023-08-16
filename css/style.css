@@ -40,9 +40,7 @@
     text-align: center;
     font-weight: bold;
 }
-.about-text{
-    font-family:'Times New Roman', Times, serif;
-}
+
 .text-skyblue{
     color:#00ffff;
     font-weight: bold;
@@ -75,11 +73,11 @@
 .small-change{
     font-size: 30px;
 }
-.margin{
-    margin-left: 20px;
-}
+/* .margin{
+    margin-left:5px;
+} */
 .font-size{
-    font-size: 20px;
+    font-size: 18px;
 }
 .tel{
     text-decoration: none;
