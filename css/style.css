@@ -70,7 +70,10 @@
     text-align: center;
 }
 .about-text{
-    text-align:left;
+    text-align:justify;
+    border: white;
+    box-shadow: 0px 0px 5px 4px lightgray; 
+    padding:15px;
 }
 .about-img{
     height: 350px;
@@ -97,9 +100,13 @@
 }
 .skills-cont{
     border: 2px solid #00ccff;
-    background-color: 	 #e6f2ff;
+   
     height: 150px;
     border-radius: 10px;
 
+}
+.about-headline{
+    border: 2px solid #00ccff;
+   
 }
 
