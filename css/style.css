@@ -99,9 +99,10 @@
     transition: 1s;
 }
 .skills-cont{
-    border: 2px solid #00ccff;
-   
-    height: 150px;
+
+    border: 1px solid white;
+    box-shadow: 0px 0px 5px 4px lightgray;
+    height: 200px;
     border-radius: 10px;
 
 }
