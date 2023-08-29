@@ -19,6 +19,7 @@
     height: 290px;
     width: 270px;
    border-radius: 50%;
+   background-color: aliceblue;
 }
 .about-title{
     margin-top: 100px;
@@ -111,5 +112,15 @@
 .about-headline{
     border: 2px solid #00ccff;
    
+}
+.project-card{
+    height: 150px;
+    padding: 10px;
+}
+.card-image{
+    height: 170px;
+}
+.project-card{
+    padding: 5px;
 }
 
