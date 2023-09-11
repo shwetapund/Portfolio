@@ -68,7 +68,7 @@
     
 }
 .about-container{
-    margin-top: 150px;
+    margin-top: 50px;
     
     text-align: center;
 }
@@ -78,7 +78,7 @@
     border-radius: 10px;
     box-shadow: 0px 0px 5px 4px lightgray; 
     padding:15px;
-    margin: 100px;
+    
 }
 .about-img{
     height: 350px;
@@ -87,17 +87,16 @@
 .border-header{
     border-bottom:5px solid  #00ccff;
     width: 80px;
+
 }
 .about-header{
     border-bottom:5px solid  #00ccff;
     width: 150px;
-   
+   margin-top: 20px;
 }
 .bootstrap-img{
     height: 50px;
     padding: 5px;
-}
-.bootstrap-img:hover{
     cursor:pointer;
     padding: 5px;
     box-shadow: 0px 0px 5px 4px lightgray;
@@ -105,14 +104,16 @@
     transition: 1s;
 }
 
+
 .skills-cont{
 
     border: 1px solid white;
     box-shadow: 0px 0px 5px 4px lightgray;
     /* height: 200px; */
     border-radius: 10px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
     display: flex;
+    flex-wrap: wrap;
     margin:10px;
 }
 /* @media screen and (max-width:800px)
@@ -169,3 +170,26 @@
     font-size: 23px;
 }
 
+.contact-id{
+    height: 30px;
+   
+   
+
+ 
+    
+}
+.contact-icon{
+    width: 50px;
+    height: 50px;
+    border: 5px solid whitesmoke;
+    box-shadow: 0px 0px 3px 5px lightgrey;
+    border-radius: 50%;
+    padding: 5px;
+    margin-top: 15px;
+}
+.contact-icon:hover{
+    cursor: pointer;
+    position: relative;
+    bottom:5px;
+    box-shadow: 0px 0px 3px 5px skyblue;
+}
